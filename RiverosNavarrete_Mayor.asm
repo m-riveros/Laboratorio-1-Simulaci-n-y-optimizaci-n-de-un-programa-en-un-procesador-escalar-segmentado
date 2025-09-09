@@ -2,7 +2,7 @@
 # Autor: Maykol Alejandro Riveros Navarrete
 
 .data
-msgCantidad: .asciiz "¿Cuántos números desea ingresar (3 a 5)? "
+msgCantidad: .asciiz "¿Cuántos números desea ingresar (3 a 5)?"
 msgNum:      .asciiz "Ingrese un número: "
 msgMayor:    .asciiz "El número mayor es: "
 
