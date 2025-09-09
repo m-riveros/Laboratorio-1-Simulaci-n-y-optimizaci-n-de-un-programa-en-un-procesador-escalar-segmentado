@@ -2,7 +2,7 @@
 # Autor: Maykol Alejandro Riveros Navarrete
 
 .data
-msgCantidad: .asciiz "¿Cuántos números de la serie Fibonacci desea generar? "
+msgCantidad: .asciiz "Ingrese la cantidad de numeros de la serie Fibonacci que desea generar "
 msgSerie:    .asciiz "Serie Fibonacci: "
 msgSuma:     .asciiz "\nLa suma de la serie es: "
 espacio:     .asciiz " "
